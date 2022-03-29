@@ -19,4 +19,4 @@ Express.js module alongside sequelize was utilized to query and interact with th
 
 # Video Demo
 
-
+https://drive.google.com/file/d/1TCY9u2LyrqDP1m4GqdkUsDkJ7opUi5SH/view?usp=sharing
